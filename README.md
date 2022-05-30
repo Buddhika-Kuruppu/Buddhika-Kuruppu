@@ -29,6 +29,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=buddhika-kuruppu&show_icons=true&locale=en&layout=compact" alt="buddhikakuruppu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhika-kuruppu&show_icons=true&locale=en" alt="buddhika-kuruppu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhika-kuruppu&theme=radical&show_icons=true&locale=en" alt="buddhika-kuruppu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika-kuruppu&" alt="buddhika-kuruppu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika-kuruppu&theme=radical" alt="buddhika-kuruppu" /></p>
