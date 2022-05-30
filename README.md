@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Always Automate🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+
 <h1 align="center">Hi 👋, I'm Buddhike Kuruppu</h1>
 <h3 align="center">An Energetic Senior Site Reliability Engineer from Sri Lanka</h3>
 <img align="right" alt="Engineer" width="350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
@@ -20,7 +20,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&column=8&align=center)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/buddhika-kuruppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buddhika-kuruppu" height="30" width="40" /></a>
 <a href="https://instagram.com/buddhika.kuruppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buddhika.kuruppu" height="30" width="40" /></a>
 </p>
