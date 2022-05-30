@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **buddhikakuruppu@hotmail.com**
 
-- 📄 Know about my experiences [xxxx](xxxx)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17nXPtZjazTTXU7CIrw2qLeHd1bmOndXe/view?usp=sharing)
 
 - ⚡ Fun fact: I love watching and giving reviews on movies 😜
 
