@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhikakuruppu&label=Profile%20views&color=0e75b6&style=flat" alt="buddhikakuruppu" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **Track back**
 
