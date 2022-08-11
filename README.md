@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🤖Automatum🤹&width=1000&height=350)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Buddhike Kuruppu</h1>
-<h3 align="center">An Energetic Senior Site Reliability Engineer from Sri Lanka</h3>
+<h3 align="center">An Energetic Senior Site Reliability Engineer from Melbourne, Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhikakuruppu&label=Profile%20views&color=0e75b6&style=flat" alt="buddhikakuruppu" /> </p>
 
