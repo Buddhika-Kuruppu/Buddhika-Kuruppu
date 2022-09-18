@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhikakuruppu&label=Profile%20views&color=0e75b6&style=flat" alt="buddhikakuruppu" /> </p>
 
-- 🔭 I’m currently working on **Cloud Automation project**
+- 🔭 I’m currently working on **Cloud Automation and Migration projects, **
 
 - 🌱 I’m currently learning **Ansible, PowerShell**
 
-- 💬 Ask me about **Cisco Networking, Azure, Automation**
+- 💬 Ask me about **Cisco Networking, Azure, Automation, Windows Server 2019/Red Hat Enterprise Linux**
 
 - 📫 How to reach me **buddhikakuruppu@hotmail.com**
 
