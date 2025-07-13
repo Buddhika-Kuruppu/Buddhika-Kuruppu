@@ -1,30 +1,88 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=🤖Automatum🤹&width=1000&height=350)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm Buddhike Kuruppu</h1>
-<h3 align="center">An Energetic Cloud Engineer (DevOps Specialist)  from Melbourne, Australia</h3>
+[![SVG Banner](https://svg-banners.vercel.app/api?type=glitch&text1=🤖%20Automatum%20🤹&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhikakuruppu&label=Profile%20views&color=0e75b6&style=flat" alt="buddhikakuruppu" /> </p>
+<h1 align="center">Hi there 👋, I'm Buddhike Kuruppu</h1>
+<h3 align="center">Cloud Engineer | DevOps Specialist | Melbourne, Australia 🇦🇺</h3>
 
-- 🔭 I’m currently working on **Cloud DevOps, Cloud Networking, Cloud Security, LZ Architecture, Subscription Vending and Cloud Migration projects**
-
-- 💬 Ask me about **Azure DevOps, Azure LZ Architecure and Acclerator, Azure Cloud Adoptation framework, Advanced Bicep and Terraform Automation, Linux Administration and Ansible**
-
-- 📫 How to reach me **buddhikakuruppu@hotmail.com**
-
-- ⚡ Fun fact: I love watching and giving reviews on movies 😜
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical&column=8&align=center)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/buddhika-kuruppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="buddhika-kuruppu" height="30" width="40" /></a>
-<a href="https://instagram.com/buddhika.kuruppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buddhika.kuruppu" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/buddhika-kuruppu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:buddhikakuruppu@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=buddhikakuruppu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=buddhika-kuruppu&theme=radical&show_icons=true&locale=en&layout=compact" alt="buddhikakuruppu" /></p>
+### 🚀 About Me
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buddhika-kuruppu&theme=radical&show_icons=true&locale=en" alt="buddhika-kuruppu" /></p>
+🔧 I’m a passionate and energetic **Cloud & DevOps Engineer** with hands-on expertise in:
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika-kuruppu&theme=radical" alt="buddhika-kuruppu" /></p>
+- ☁️ **Cloud Infrastructure** — Azure (primary), AWS (familiar)
+- 🧱 **IaC & Automation** — Bicep, Terraform, Ansible
+- 🔄 **CI/CD Pipelines** — Azure DevOps, GitHub Actions
+- 🔐 **Security & Governance** — Azure Policies, RBAC, Network Security
+- 🧭 **Landing Zones & Subscription Vending** — Enterprise-scale architecture
+- 🐧 **Linux & Scripting** — Bash, Python
+
+📌 I'm currently focused on **Landing Zone Automation**, **Cloud Networking**, and **Migration Projects** in enterprise environments.
+
+💬 Feel free to reach out about anything related to:
+`Azure Architecture • Cloud Adoption Framework • Infrastructure as Code • Automation Best Practices`
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=buddhika-kuruppu&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhika-kuruppu&layout=compact&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika-kuruppu&theme=radical" height="180" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=buddhika-kuruppu&theme=radical&no-frame=true&column=8" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> 🎬 I’m a huge movie buff! I enjoy reviewing films and breaking down plots over a cup of coffee ☕.
+
+---
+
+### 📫 Let's Connect!
+
+- 🔗 [LinkedIn](https://linkedin.com/in/buddhika-kuruppu)
+- 📸 [Instagram](https://instagram.com/buddhika.kuruppu)
+- 📬 **Email:** buddhikakuruppu@hotmail.com
+
+---
+
+<p align="center">
+  <i>“Technology is best when it brings people together.” — Matt Mullenweg</i>
+</p>
