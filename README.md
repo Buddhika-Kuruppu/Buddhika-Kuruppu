@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buddhikakuruppu&label=Profile%20views&color=0e75b6&style=flat" alt="buddhikakuruppu" /> </p>
 
-- 🔭 I’m currently working on **Cloud DevOps and Migration projects**
+- 🔭 I’m currently working on **Cloud DevOps, Cloud Networking, Cloud Security, LZ Architecture, Subscription Vending and Cloud Migration projects**
 
-- 💬 Ask me about **Cisco Networking, Azure DevOps, Automation, Linux Administration, Azure**
+- 💬 Ask me about **Azure DevOps, Azure LZ Architecure and Acclerator, Azure Cloud Adoptation framework, Advanced Bicep and Terraform Automation, Linux Administration and Ansible**
 
 - 📫 How to reach me **buddhikakuruppu@hotmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17nXPtZjazTTXU7CIrw2qLeHd1bmOndXe/view?usp=sharing)
 
 - ⚡ Fun fact: I love watching and giving reviews on movies 😜
 
