@@ -19,16 +19,17 @@
 
 🔧 I’m a passionate and energetic **Cloud & DevOps Engineer** with hands-on expertise in:
 
-- ☁️ **Cloud Infrastructure** — Azure (primary), AWS (familiar)
-- 🧱 **IaC & Automation** — Bicep, Terraform, Ansible
+- ☁️ **Cloud Infrastructure and SaaS** — Azure, AWS, Microsoft 365, Intune, Avepoint, Bittitan, TrendMicro, Commvault
+- 🧱 **IaC & Automation** — Bicep, Terraform, Terragrunt and Ansible
 - 🔄 **CI/CD Pipelines** — Azure DevOps, GitHub Actions
-- 🔐 **Security & Governance** — Azure Policies, RBAC, Network Security
-- 🧭 **Landing Zones & Subscription Vending** — Enterprise-scale architecture
-- 🐧 **Linux & Scripting** — Bash, Python
+- ☸️ **Containerization** — Docker, Kubernetes (AKS)
+- 🔐 **Security & Governance** — Azure Policies, Firewalls, Bootstrap Acceleratorm Azure Verified Modules
+- 🧭 **Landing Zones & Subscription Vending** — Enterprise-scale architecture, Cloud Adoptation Framework, Zero Trust Model
+- 🐧 **Linux & Scripting** — Bash, Python, Perl, PowerShell
 
-📌 I'm currently focused on **Landing Zone Automation**, **Cloud Networking**, and **Migration Projects** in enterprise environments.
+📌 Currently focused on **Landing Zone Automation**, **Cloud Networking**, and **Migration Projects** in enterprise environments.
 
-💬 Feel free to reach out about anything related to:
+💬 Feel free to reach out about:
 `Azure Architecture • Cloud Adoption Framework • Infrastructure as Code • Automation Best Practices`
 
 ---
@@ -37,13 +38,15 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://raw.githubusercontent.com/Azure/bicep/main/docs/bicep-logo.svg" height="40" alt="Bicep" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
 </p>
 
 ---
