@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=buddhika-kuruppu&show_icons=true&theme=radical" width="420" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhika-kuruppu&layout=compact&theme=radical" width="420" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhika-kuruppu&layout=compact&theme=radical" width="420" height="180" />
 </p>
 
 
