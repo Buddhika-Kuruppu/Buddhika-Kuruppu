@@ -53,13 +53,10 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=buddhika-kuruppu&show_icons=true&theme=radical" width="420" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhika-kuruppu&layout=compact&theme=radical" width="430" height="180" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=buddhika-kuruppu&theme=radical" height="180" />
