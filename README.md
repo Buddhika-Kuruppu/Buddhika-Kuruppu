@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=buddhika-kuruppu&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=buddhika-kuruppu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
