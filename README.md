@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=buddhika-kuruppu&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=buddhika-kuruppu&theme=radical&hide_border=false" height="180" />
 </p>
 
 ---
