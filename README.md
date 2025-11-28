@@ -4,7 +4,7 @@
 <h3 align="center">Cloud Engineer | DevOps Specialist | Melbourne, Australia 🇦🇺</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/buddhika-kuruppu" target="_blank">
+  <a href="https://linkedin.com/in/buddhike-kuruppu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:buddhikakuruppu@hotmail.com">
