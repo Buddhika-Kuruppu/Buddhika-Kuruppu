@@ -10,21 +10,21 @@
   <a href="mailto:buddhikakuruppu@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=buddhikakuruppu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Buddhika-Kuruppu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-🔧 I’m a passionate and energetic **Cloud & DevOps Engineer** with hands-on expertise in:
+🔧 I'm a passionate and energetic **Cloud & DevOps Engineer** with hands-on expertise in:
 
 - ☁️ **Cloud Infrastructure and SaaS** — Azure, AWS, Microsoft 365, Intune, Avepoint, Bittitan, TrendMicro, Commvault
 - 🧱 **IaC & Automation** — Bicep, Terraform, Terragrunt and Ansible
 - 🔄 **CI/CD Pipelines** — Azure DevOps, GitHub Actions
 - ☸️ **Containerization** — Docker, Kubernetes (AKS)
-- 🔐 **Security & Governance** — Azure Policies, Firewalls, Bootstrap Acceleratorm Azure Verified Modules
-- 🧭 **Landing Zones & Subscription Vending** — Enterprise-scale architecture, Cloud Adoptation Framework, Zero Trust Model
+- 🔐 **Security & Governance** — Azure Policies, Firewalls, Bootstrap Accelerator, Azure Verified Modules
+- 🧭 **Landing Zones & Subscription Vending** — Enterprise-scale architecture, Cloud Adoption Framework, Zero Trust Model
 - 🐧 **Linux & Scripting** — Bash, Python, Perl, PowerShell
 
 📌 Currently focused on **Landing Zone Automation**, **Cloud Networking**, and **Migration Projects** in enterprise environments.
@@ -39,7 +39,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  <img src=https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/bicepLogoSmall.svg height="60" alt="Bicep" />
+  <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/bicepLogoSmall.svg" height="60" alt="Bicep" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
@@ -54,12 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buddhika-kuruppu&show_icons=true&theme=radical" width="420" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddhika-kuruppu&layout=compact&theme=radical" width="430" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Buddhika-Kuruppu&show_icons=true&theme=radical" width="420" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=compact&theme=radical" width="430" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=buddhika-kuruppu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=Buddhika-Kuruppu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -67,25 +67,25 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buddhika-kuruppu&theme=radical&no-frame=true&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Buddhika-Kuruppu&theme=radical&no-frame=true&column=8" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### ⚡ Fun Fact
 
-> 🎬 I’m a huge movie buff! I enjoy reviewing films and breaking down plots over a cup of coffee ☕.
+> 🎬 I'm a huge movie buff! I enjoy reviewing films and breaking down plots over a cup of coffee ☕.
 
 ---
 
 ### 📫 Let's Connect!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/buddhika-kuruppu)
+- 🔗 [LinkedIn](https://linkedin.com/in/buddhike-kuruppu)
 - 📸 [Instagram](https://instagram.com/buddhika.kuruppu)
 - 📬 **Email:** buddhikakuruppu@hotmail.com
 
 ---
 
 <p align="center">
-  <i>“Technology is best when it brings people together.” — Matt Mullenweg</i>
+  <i>"Technology is best when it brings people together." — Matt Mullenweg</i>
 </p>
