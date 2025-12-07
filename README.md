@@ -58,7 +58,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddhika-Kuruppu&theme=radical)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Buddhika-Kuruppu&theme=radical" width="49%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddhika-Kuruppu&theme=radical&utcOffset=11" width="49%" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Buddhika-Kuruppu&theme=radical" width="49%" alt="Top Languages" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buddhika-Kuruppu&theme=radical&hide_border=true)](https://github.com/Buddhika-Kuruppu)
 
