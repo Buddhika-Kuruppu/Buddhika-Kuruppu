@@ -54,12 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buddhika-Kuruppu&show_icons=true&theme=radical" width="420" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=compact&theme=radical" width="430" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Buddhika-Kuruppu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Buddhika-Kuruppu&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhika-Kuruppu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
