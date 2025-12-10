@@ -5,17 +5,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/buddhike-kuruppu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:buddhikakuruppu@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email" />
   </a>
-  <a href="https://instagram.com/buddhika.kuruppu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Buddhika-Kuruppu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -43,7 +37,16 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,terraform,kubernetes,docker,ansible,linux,bash,python,powershell,git,github,vscode" alt="Tech Stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
+  <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/bicepLogoSmall.svg" height="60" alt="Bicep" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </p>
 
 ---
@@ -52,30 +55,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Buddhika-Kuruppu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Buddhika-Kuruppu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddhika-Kuruppu&theme=radical)
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Buddhika-Kuruppu&theme=radical" width="40%" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Buddhika-Kuruppu&theme=radical" width="40%" alt="Top Languages" />
 
----
-
-### 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Buddhika-Kuruppu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-
-[![Buddhika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Buddhika-Kuruppu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buddhika-Kuruppu&theme=radical&hide_border=true)](https://github.com/Buddhika-Kuruppu)
 
 </div>
 
@@ -84,18 +69,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Buddhika-Kuruppu&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Buddhika-Kuruppu&theme=radical&no-frame=true&column=8" alt="GitHub Trophies" />
 </p>
-
----
-
-### 💻 Most Used Languages
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
 
 ---
 
@@ -107,40 +82,12 @@
 
 ### 📫 Let's Connect!
 
-<p align="center">
-  <a href="https://linkedin.com/in/buddhike-kuruppu">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/buddhika.kuruppu">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:buddhikakuruppu@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- 🔗 [LinkedIn](https://linkedin.com/in/buddhike-kuruppu)
+- 📸 [Instagram](https://instagram.com/buddhika.kuruppu)
+- 📬 **Email:** buddhikakuruppu@hotmail.com
 
 ---
-
-<div align="center">
-  
-  **📊 Weekly Development Breakdown**
-  
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-  
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
 
 <p align="center">
   <i>"Technology is best when it brings people together." — Matt Mullenweg</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Buddhika-Kuruppu?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Buddhika-Kuruppu?label=Stars&style=social" alt="GitHub Stars" />
 </p>
