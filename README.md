@@ -111,6 +111,18 @@
 
 </div>
 
+---
+
+### 🔥 GitHub Streak Stats
+
+<div align="center">
+
+![GitHub Streak](https://raw.githubusercontent.com/Buddhika-Kuruppu/Buddhika-Kuruppu/main/output/streak-stats.svg)
+
+</div>
+
+---
+
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -165,7 +177,7 @@ resource "buddhike_current_focus" "2025" {
 
 ---
 
-### 🎯 2026 Goals
+### 🎯 2025 Goals
 
 - 🚀 Contribute to more open-source DevOps projects
 - 📚 Master multi-cloud architecture patterns
