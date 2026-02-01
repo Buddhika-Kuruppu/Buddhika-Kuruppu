@@ -105,34 +105,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Buddhika-Kuruppu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&line_height=27" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Buddhika-Kuruppu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhika-Kuruppu&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=445" width="48%" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Buddhika-Kuruppu&theme=radical&hide_border=true&layout=compact" width="48%" alt="WakaTime Stats" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Buddhika-Kuruppu&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="98%" alt="Contribution Graph" />
-
-</div>
-
-### 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Buddhika-Kuruppu/terraform-azure-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buddhika-Kuruppu&repo=terraform-azure-projects&theme=radical&hide_border=true" alt="Terraform Azure Projects" />
-</a>
-<a href="https://github.com/Buddhika-Kuruppu/devops-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buddhika-Kuruppu&repo=devops-automation&theme=radical&hide_border=true" alt="DevOps Automation" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=compact&theme=radical&hide_border=true&langs_count=10" width="48%" alt="Top Languages" />
 
 </div>
 
@@ -143,19 +123,6 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Buddhika-Kuruppu&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddhika-Kuruppu&theme=radical)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddhika-Kuruppu&theme=radical" width="48%" alt="Productive Time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Buddhika-Kuruppu&theme=radical" width="48%" alt="Repos per Language" />
 
 </div>
 
