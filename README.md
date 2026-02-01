@@ -1,93 +1,225 @@
-[![SVG Banner](https://svg-banners.vercel.app/api?type=glitch&text1=🤖%20Automatum%20🤹&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+<div align="center">
 
-<h1 align="center">Hi there 👋, I'm Buddhike Kuruppu</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Buddhike+Kuruppu;Cloud+Engineer+%7C+DevOps+Specialist;Building+the+Future+in+the+Cloud+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🤖%20Automatum%20🤹&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
+
+</div>
+
 <h3 align="center">Cloud Engineer | DevOps Specialist | Melbourne, Australia 🇦🇺</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/buddhike-kuruppu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:buddhikakuruppu@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Buddhika-Kuruppu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://instagram.com/buddhika.kuruppu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Buddhika-Kuruppu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Buddhika-Kuruppu?style=for-the-badge&color=blue" alt="Followers" />
 </p>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🚀 About Me
 
 🔧 I'm a passionate and energetic **Cloud & DevOps Engineer** with hands-on expertise in:
 
-- ☁️ **Cloud Infrastructure and SaaS** — Azure, AWS, Microsoft 365, Intune, Avepoint, Bittitan, TrendMicro, Commvault
-- 🧱 **IaC & Automation** — Bicep, Terraform, Terragrunt and Ansible
+- ☁️ **Cloud Infrastructure** — Azure, AWS, Microsoft 365
+- 🛡️ **Security & Compliance** — Intune, TrendMicro, Commvault
+- 🧱 **IaC & Automation** — Bicep, Terraform, Terragrunt, Ansible
 - 🔄 **CI/CD Pipelines** — Azure DevOps, GitHub Actions
 - ☸️ **Containerization** — Docker, Kubernetes (AKS)
-- 🔐 **Security & Governance** — Azure Policies, Firewalls, Bootstrap Accelerator, Azure Verified Modules
-- 🧭 **Landing Zones & Subscription Vending** — Enterprise-scale architecture, Cloud Adoption Framework, Zero Trust Model
-- 🐧 **Linux & Scripting** — Bash, Python, Perl, PowerShell
+- 🔐 **Security & Governance** — Azure Policies, Zero Trust Model
+- 🧭 **Landing Zones** — Enterprise-scale architecture, CAF
+- 🐧 **Scripting** — Bash, Python, Perl, PowerShell
 
-📌 Currently focused on **Landing Zone Automation**, **Cloud Networking**, and **Migration Projects** in enterprise environments.
+<br clear="right"/>
 
-💬 Feel free to reach out about:
-`Azure Architecture • Cloud Adoption Framework • Infrastructure as Code • Automation Best Practices`
+📌 Currently focused on:
+```yaml
+- Landing Zone Automation
+- Cloud Networking & Security
+- Enterprise Migration Projects
+- Infrastructure as Code Best Practices
+```
+
+💬 Ask me about:
+`Azure Architecture • Cloud Adoption Framework • IaC • DevOps Automation`
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
-  <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/bicepLogoSmall.svg" height="60" alt="Bicep" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddhika-Kuruppu&theme=radical)
+#### Cloud Platforms & Services
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp" alt="Cloud Platforms" />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Buddhika-Kuruppu&theme=radical" width="40%" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Buddhika-Kuruppu&theme=radical" width="40%" alt="Top Languages" />
+#### Infrastructure as Code & Automation
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="50" alt="Terraform" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/bicepLogoSmall.svg" height="50" alt="Bicep" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="50" alt="Ansible" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="50" alt="Azure DevOps" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Buddhika-Kuruppu&theme=radical&hide_border=true)](https://github.com/Buddhika-Kuruppu)
+#### Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers" />
+</p>
+
+#### Programming & Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,go" alt="Languages" />
+</p>
+
+#### Version Control & Collaboration
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control" />
+</p>
+
+#### Operating Systems & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,vim" alt="OS & Tools" />
+</p>
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Buddhika-Kuruppu&theme=radical&no-frame=true&column=8" alt="GitHub Trophies" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Buddhika-Kuruppu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhika-Kuruppu&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
 
-### ⚡ Fun Fact
+</div>
 
-> 🎬 I'm a huge movie buff! I enjoy reviewing films and breaking down plots over a cup of coffee ☕.
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Buddhika-Kuruppu&theme=react-dark&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
 
-### 📫 Let's Connect!
-
-- 🔗 [LinkedIn](https://linkedin.com/in/buddhike-kuruppu)
-- 📸 [Instagram](https://instagram.com/buddhika.kuruppu)
-- 📬 **Email:** buddhikakuruppu@hotmail.com
+</div>
 
 ---
 
-<p align="center">
-  <i>"Technology is best when it brings people together." — Matt Mullenweg</i>
-</p>
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Buddhika-Kuruppu&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Buddhika-Kuruppu&theme=radical)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Buddhika-Kuruppu&theme=radical" width="48%" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Buddhika-Kuruppu&theme=radical" width="48%" alt="Repos per Language" />
+
+</div>
+
+---
+
+### 💼 What I'm Currently Working On
+
+```terraform
+resource "buddhike_current_focus" "2025" {
+  projects = [
+    "Azure Landing Zone implementations",
+    "Multi-cloud infrastructure automation",
+    "CI/CD pipeline optimization",
+    "Cloud migration strategies"
+  ]
+  
+  learning = [
+    "Advanced Kubernetes patterns",
+    "GitOps with ArgoCD/Flux",
+    "Cloud-native security",
+    "FinOps and cost optimization"
+  ]
+  
+  tools = {
+    iac        = ["Terraform", "Bicep", "Terragrunt"]
+    cicd       = ["Azure DevOps", "GitHub Actions"]
+    monitoring = ["Azure Monitor", "Grafana", "Prometheus"]
+  }
+}
+```
+
+---
+
+### 🎯 2025 Goals
+
+- 🚀 Contribute to more open-source DevOps projects
+- 📚 Master multi-cloud architecture patterns
+- 🎓 Achieve advanced Azure certifications
+- 🤝 Mentor junior cloud engineers
+- 📝 Write technical blogs about cloud adoption
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+### ⚡ Fun Facts
+
+- 🎬 Huge movie buff who enjoys reviewing films and analyzing plots
+- ☕ Coffee enthusiast - Best code comes with good coffee
+- 🎮 Gamer in free time
+- 📚 Continuous learner - Always exploring new tech
+- 🌏 Love exploring different cultures and cuisines
+
+---
+
+### 📫 Let's Connect & Collaborate!
+
+<div align="center">
+
+I'm always excited to connect with fellow tech enthusiasts, discuss cloud architecture, or collaborate on interesting projects!
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/buddhike-kuruppu)
+[![Email](https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buddhikakuruppu@hotmail.com)
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/buddhika.kuruppu)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Technology is best when it brings people together." — Matt Mullenweg
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+**Thanks for visiting! Feel free to explore my repositories and reach out!** ⭐
+
+</div>
