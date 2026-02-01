@@ -101,28 +101,37 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Buddhika-Kuruppu&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Buddhika-Kuruppu&theme=radical&hide_border=true" width="48%" alt="GitHub Streak" />
+![GitHub User's stars](https://img.shields.io/github/stars/Buddhika-Kuruppu?style=for-the-badge&logo=github&color=yellow)
+![GitHub followers](https://img.shields.io/github/followers/Buddhika-Kuruppu?style=for-the-badge&logo=github&color=blue)
+![GitHub repos](https://img.shields.io/badge/Public%20Repos-9-brightgreen?style=for-the-badge&logo=github)
 
 </div>
 
+### 🐍 Contribution Snake
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=compact&theme=radical&hide_border=true&langs_count=10" width="48%" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Buddhika-Kuruppu/Buddhika-Kuruppu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Buddhika-Kuruppu/Buddhika-Kuruppu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Buddhika-Kuruppu/Buddhika-Kuruppu/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
----
-
-### 🏆 GitHub Achievements
+### 💻 Most Used Languages
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Buddhika-Kuruppu&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+![HCL](https://img.shields.io/badge/HCL-purple?style=for-the-badge&logo=terraform&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -156,7 +165,7 @@ resource "buddhike_current_focus" "2025" {
 
 ---
 
-### 🎯 2026 Goals
+### 🎯 2025 Goals
 
 - 🚀 Contribute to more open-source DevOps projects
 - 📚 Master multi-cloud architecture patterns
