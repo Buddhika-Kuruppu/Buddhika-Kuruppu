@@ -17,20 +17,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          user: Buddhika-Kuruppu
-          theme: radical
-          hide_border: true
-          output: streak-stats.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Streak Stats SVG
+        run: |
+          # Fetch the streak stats SVG from the demo endpoint
+          curl "https://streak-stats.demolab.com/demo/?user=Buddhika-Kuruppu&theme=radical&hide_border=true" > streak-stats.svg
           
       - name: Move to output directory
         run: |
           mkdir -p output
-          mv streak-stats.svg output/ || echo "File already in place"
+          mv streak-stats.svg output/
           
       - name: Commit and Push
         run: |
@@ -39,3 +34,5 @@ jobs:
           git add output/streak-stats.svg
           git diff --staged --quiet || git commit -m "Update streak stats [skip ci]"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
