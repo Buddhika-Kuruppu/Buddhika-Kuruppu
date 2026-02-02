@@ -177,7 +177,7 @@ resource "buddhike_current_focus" "2025" {
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 
 - 🚀 Contribute to more open-source DevOps projects
 - 📚 Master multi-cloud architecture patterns
