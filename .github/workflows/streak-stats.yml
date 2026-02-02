@@ -17,10 +17,131 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         
-      - name: Generate Streak Stats SVG
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
         run: |
-          # Fetch the streak stats SVG from the demo endpoint
-          curl "https://streak-stats.demolab.com/demo/?user=Buddhika-Kuruppu&theme=radical&hide_border=true" > streak-stats.svg
+          pip install requests
+          
+      - name: Generate Streak Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python << 'EOF'
+          import requests
+          import json
+          from datetime import datetime, timedelta
+          import os
+          
+          username = "Buddhika-Kuruppu"
+          token = os.environ.get('GITHUB_TOKEN')
+          
+          headers = {'Authorization': f'token {token}'}
+          
+          # Get contribution data from GitHub GraphQL API
+          query = """
+          query($userName:String!) {
+            user(login: $userName){
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                  weeks {
+                    contributionDays {
+                      contributionCount
+                      date
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+          
+          response = requests.post(
+              'https://api.github.com/graphql',
+              json={'query': query, 'variables': {'userName': username}},
+              headers=headers
+          )
+          
+          data = response.json()
+          calendar = data['data']['user']['contributionsCollection']['contributionCalendar']
+          total_contributions = calendar['totalContributions']
+          
+          # Calculate streaks
+          days = []
+          for week in calendar['weeks']:
+              for day in week['contributionDays']:
+                  days.append({
+                      'date': day['date'],
+                      'count': day['contributionCount']
+                  })
+          
+          # Current streak
+          current_streak = 0
+          for day in reversed(days):
+              if day['count'] > 0:
+                  current_streak += 1
+              else:
+                  break
+          
+          # Longest streak
+          longest_streak = 0
+          temp_streak = 0
+          for day in days:
+              if day['count'] > 0:
+                  temp_streak += 1
+                  longest_streak = max(longest_streak, temp_streak)
+              else:
+                  temp_streak = 0
+          
+          # Create SVG
+          svg = f'''<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <style>
+              .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd }}
+              .stat {{ font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a6a6a6 }}
+              .stat-value {{ font: 800 22px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff }}
+              .ring {{ fill: none; stroke: url(#gradient); stroke-width: 6 }}
+            </style>
+            <defs>
+              <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" style="stop-color:#fe428e;stop-opacity:1" />
+                <stop offset="100%" style="stop-color:#f9a43e;stop-opacity:1" />
+              </linearGradient>
+            </defs>
+            <rect x="0.5" y="0.5" rx="4.5" height="99%" width="99%" stroke="#e4e2e2" stroke-opacity="0.2" fill="#141414"/>
+            <text x="25" y="35" class="header">GitHub Contribution Streak</text>
+            
+            <!-- Total Contributions -->
+            <g transform="translate(25, 60)">
+              <text y="25" class="stat-value">{total_contributions}</text>
+              <text y="48" class="stat">Total Contributions</text>
+            </g>
+            
+            <!-- Current Streak -->
+            <g transform="translate(190, 60)">
+              <circle class="ring" cx="40" cy="40" r="40"/>
+              <text x="40" y="35" text-anchor="middle" class="stat-value">{current_streak}</text>
+              <text x="40" y="60" text-anchor="middle" class="stat">Current Streak</text>
+              <text x="40" y="100" text-anchor="middle" class="stat">days</text>
+            </g>
+            
+            <!-- Longest Streak -->
+            <g transform="translate(360, 60)">
+              <text y="25" class="stat-value">{longest_streak}</text>
+              <text y="48" class="stat">Longest Streak</text>
+              <text y="68" class="stat">days</text>
+            </g>
+          </svg>'''
+          
+          # Save SVG
+          with open('streak-stats.svg', 'w') as f:
+              f.write(svg)
+          
+          print(f"Generated streak stats: Total={total_contributions}, Current={current_streak}, Longest={longest_streak}")
+          EOF
           
       - name: Move to output directory
         run: |
@@ -34,5 +155,3 @@ jobs:
           git add output/streak-stats.svg
           git diff --staged --quiet || git commit -m "Update streak stats [skip ci]"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
