@@ -101,9 +101,9 @@ jobs:
           svg = f'''<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
             <style>
               .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd }}
-              .stat {{ font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a6a6a6 }}
-              .stat-value {{ font: 800 22px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff }}
-              .ring {{ fill: none; stroke: url(#gradient); stroke-width: 6 }}
+              .stat {{ font: 500 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f }}
+              .stat-value {{ font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff }}
+              .ring {{ fill: none; stroke: url(#gradient); stroke-width: 6; stroke-linecap: round }}
             </style>
             <defs>
               <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -112,27 +112,31 @@ jobs:
               </linearGradient>
             </defs>
             <rect x="0.5" y="0.5" rx="4.5" height="99%" width="99%" stroke="#e4e2e2" stroke-opacity="0.2" fill="#141414"/>
-            <text x="25" y="35" class="header">GitHub Contribution Streak</text>
+            
+            <!-- Header -->
+            <text x="247.5" y="35" text-anchor="middle" class="header">🔥 GitHub Contribution Streak</text>
             
             <!-- Total Contributions -->
-            <g transform="translate(25, 60)">
-              <text y="25" class="stat-value">{total_contributions}</text>
-              <text y="48" class="stat">Total Contributions</text>
+            <g transform="translate(70, 80)">
+              <text x="0" y="0" text-anchor="middle" class="stat-value">{total_contributions}</text>
+              <text x="0" y="25" text-anchor="middle" class="stat">Total</text>
+              <text x="0" y="42" text-anchor="middle" class="stat">Contributions</text>
             </g>
             
-            <!-- Current Streak -->
-            <g transform="translate(190, 60)">
-              <circle class="ring" cx="40" cy="40" r="40"/>
-              <text x="40" y="35" text-anchor="middle" class="stat-value">{current_streak}</text>
-              <text x="40" y="60" text-anchor="middle" class="stat">Current Streak</text>
-              <text x="40" y="100" text-anchor="middle" class="stat">days</text>
+            <!-- Current Streak (Center with Ring) -->
+            <g transform="translate(247.5, 105)">
+              <circle class="ring" cx="0" cy="0" r="45" stroke-dasharray="283" stroke-dashoffset="0"/>
+              <text x="0" y="8" text-anchor="middle" class="stat-value">{current_streak}</text>
+              <text x="0" y="30" text-anchor="middle" class="stat">Current</text>
+              <text x="0" y="47" text-anchor="middle" class="stat">Streak</text>
+              <text x="0" y="70" text-anchor="middle" class="stat" style="font-size: 12px;">🔥 days</text>
             </g>
             
             <!-- Longest Streak -->
-            <g transform="translate(360, 60)">
-              <text y="25" class="stat-value">{longest_streak}</text>
-              <text y="48" class="stat">Longest Streak</text>
-              <text y="68" class="stat">days</text>
+            <g transform="translate(425, 80)">
+              <text x="0" y="0" text-anchor="middle" class="stat-value">{longest_streak}</text>
+              <text x="0" y="25" text-anchor="middle" class="stat">Longest</text>
+              <text x="0" y="42" text-anchor="middle" class="stat">Streak</text>
             </g>
           </svg>'''
           
