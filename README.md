@@ -164,7 +164,7 @@ resource "buddhike_current_focus" "2026" {
     "Advanced Kubernetes patterns",
     "GitOps with ArgoCD/Flux",
     "Cloud-native security",
-    "FinOps and cost optimization"
+    "FinOps and cost optimization",
     "Advanced IaC Architecture Patterns"
   ]
   
