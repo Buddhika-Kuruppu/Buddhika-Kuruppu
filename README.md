@@ -152,7 +152,7 @@
 ### 💼 What I'm Currently Working On
 
 ```terraform
-resource "buddhike_current_focus" "2025" {
+resource "buddhike_current_focus" "" {
   projects = [
     "Azure Landing Zone implementations",
     "Multi-cloud infrastructure automation",
