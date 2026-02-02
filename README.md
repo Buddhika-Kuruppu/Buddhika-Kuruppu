@@ -152,7 +152,7 @@
 ### 💼 What I'm Currently Working On
 
 ```terraform
-resource "buddhike_current_focus" "" {
+resource "buddhike_current_focus" "2026" {
   projects = [
     "Azure Landing Zone implementations",
     "Multi-cloud infrastructure automation",
@@ -165,6 +165,7 @@ resource "buddhike_current_focus" "" {
     "GitOps with ArgoCD/Flux",
     "Cloud-native security",
     "FinOps and cost optimization"
+    "Advanced IaC Architecture Patterns"
   ]
   
   tools = {
