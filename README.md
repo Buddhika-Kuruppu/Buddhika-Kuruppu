@@ -141,7 +141,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=donut&theme=radical&hide_border=true&langs_count=8&hide=html,css&card_width=400)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=donut&theme=radical&hide_border=true&langs_count=8&hide=html,css)
 
 </div>
 
