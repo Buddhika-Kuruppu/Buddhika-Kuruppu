@@ -117,7 +117,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://raw.githubusercontent.com/Buddhika-Kuruppu/Buddhika-Kuruppu/main/output/streak-stats.svg?t=1771244033)
+![GitHub Streak](https://raw.githubusercontent.com/Buddhika-Kuruppu/Buddhika-Kuruppu/main/output/streak-stats.svg?t=1771163326)
 
 </div>
 
@@ -135,15 +135,13 @@
 
 </div>
 
+---
+
 ### 💻 Most Used Languages
 
 <div align="center">
 
-![HCL](https://img.shields.io/badge/HCL-purple?style=for-the-badge&logo=terraform&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=donut&theme=radical&hide_border=true&langs_count=8&hide=html,css&card_width=400)
 
 </div>
 
