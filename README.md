@@ -137,11 +137,20 @@
 
 ---
 
-### 💻 Most Used Languages
+### 💻 GitHub Stats & Most Used Languages
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=donut&theme=radical&hide_border=true&langs_count=8&hide=html,css)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Buddhika-Kuruppu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Buddhika-Kuruppu&layout=donut&theme=radical&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
