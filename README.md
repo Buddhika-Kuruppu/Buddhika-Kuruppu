@@ -117,7 +117,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://raw.githubusercontent.com/Buddhika-Kuruppu/Buddhika-Kuruppu/main/output/streak-stats.svg?t=1785252149)
+![GitHub Streak](https://raw.githubusercontent.com/Buddhika-Kuruppu/Buddhika-Kuruppu/main/output/streak-stats.svg?t=1785337741)
 
 </div>
 
