@@ -164,12 +164,12 @@ Bringing **AI-native thinking** to cloud infrastructure — from GenAI platform 
 
 ```terraform
 resource "buddhike_ai_toolkit" "cloud_engineering" {
-  genai_platforms = ["Azure AI Foundry", "Azure OpenAI", "AWS Bedrock", "Vertex AI"]
+  genai_platforms = ["Azure AI Foundry", "Azure OpenAI", "Microsoft Copilot Studio", "Microsoft 365 Copilot" , "Anthropic Claude"]
 
   llm_engineering = {
-    orchestration = ["LangChain", "Semantic Kernel", "LlamaIndex"]
+    orchestration = ["LangChain", "Semantic Kernel", "Microsoft Agent Framework"]
     patterns      = ["RAG", "Agentic Workflows", "Fine-tuning", "MCP Servers"]
-    vector_stores = ["Azure AI Search", "pgvector", "Pinecone"]
+    vector_stores = ["Azure AI Search", "Azure Cosmos DB", "Microsoft SQL Server"]
   }
 
   operations = {
@@ -270,7 +270,7 @@ resource "buddhike_current_focus" "2026" {
 ### 🎯 2026 Goals
 
 - 🚀 Contribute to more open-source DevOps projects
-- 📚 Master multi-cloud architecture patterns
+- 📚 Master multi-cloud architecture patterns incorporating GenAI
 - 🎓 Achieve advanced Azure certifications
 - 🤝 Mentor junior cloud engineers
 - 📝 Write technical blogs about cloud adoption
