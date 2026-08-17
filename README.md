@@ -158,6 +158,7 @@ Bringing **AI-native thinking** to cloud infrastructure — from GenAI platform 
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_IaC_Generation-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Code_Review-2088FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeRabbit-FF6B6B?style=for-the-badge&logo=coderabbit&logoColor=white" />
 </p>
 
 </div>
