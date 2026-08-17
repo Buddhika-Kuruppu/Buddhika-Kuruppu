@@ -1,3 +1,71 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>README Preview — Buddhike Kuruppu</title>
+<link id="css-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-light.min.css" />
+<link id="css-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.1/github-markdown-dark.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<style>
+  :root { color-scheme: dark; }
+  html[data-theme="light"] { color-scheme: light; }
+  body {
+    margin: 0;
+    background: #0d1117;
+    transition: background .2s ease;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  html[data-theme="light"] body { background: #ffffff; }
+  .toolbar {
+    position: sticky; top: 0; z-index: 10;
+    display: flex; align-items: center; gap: 12px;
+    padding: 10px 20px;
+    background: rgba(13,17,23,.85);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px solid #30363d;
+    font-size: 13px; color: #8b949e;
+  }
+  html[data-theme="light"] .toolbar {
+    background: rgba(255,255,255,.85);
+    border-bottom: 1px solid #d0d7de;
+    color: #57606a;
+  }
+  .toolbar .spacer { flex: 1; }
+  .toolbar button {
+    cursor: pointer; border: 1px solid #30363d; background: #21262d; color: #c9d1d9;
+    padding: 5px 12px; border-radius: 6px; font-size: 12px; font-weight: 600;
+  }
+  html[data-theme="light"] .toolbar button { border: 1px solid #d0d7de; background: #f6f8fa; color: #24292f; }
+  .wrap {
+    box-sizing: border-box;
+    max-width: 1012px;
+    margin: 24px auto 80px;
+    padding: 0 16px;
+  }
+  .markdown-body {
+    box-sizing: border-box;
+    padding: 32px;
+    border: 1px solid #30363d;
+    border-radius: 10px;
+    background: #0d1117;
+  }
+  html[data-theme="light"] .markdown-body { border-color: #d0d7de; background: #fff; }
+  .markdown-body img { background: transparent; }
+</style>
+</head>
+<body>
+  <div class="toolbar">
+    <span>📄 Preview — README.md (GitHub render)</span>
+    <span class="spacer"></span>
+    <span style="opacity:.8">External badges/stats load live from their hosts</span>
+    <button id="themeBtn">☀️ Light</button>
+  </div>
+  <div class="wrap">
+    <article id="content" class="markdown-body"></article>
+  </div>
+
+<script id="source" type="text/markdown">
 [![SVG Banner](https://svg-banners.vercel.app/api?type=glitch&text1=🤖%20Automatum%20🤹&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
 <div align="center">
@@ -34,10 +102,12 @@
 🔧 I'm a passionate and energetic **Cloud & DevOps Engineer** with hands-on expertise in:
 
 - ☁️ **Cloud Infrastructure** — Azure, AWS, Microsoft 365
+- 🤖 **AI & GenAI** — Azure OpenAI, LangChain, RAG, LLMOps
 - 🛡️ **Security & Compliance** — Intune, TrendMicro, Commvault
 - 🧱 **IaC & Automation** — Bicep, Terraform, Terragrunt, Ansible
 - 🔄 **CI/CD Pipelines** — Azure DevOps, GitHub Actions
 - ☸️ **Containerization** — Docker, Kubernetes (AKS)
+- 📈 **AIOps** — Anomaly Detection, Predictive Scaling, GitHub Copilot
 - 🔐 **Security & Governance** — Azure Policies, Zero Trust Model
 - 🧭 **Landing Zones** — Enterprise-scale architecture, CAF
 - 🐧 **Scripting** — Bash, Python, Perl, PowerShell
@@ -98,6 +168,86 @@
 </p>
 
 </div>
+
+---
+
+### 🤖 AI & GenAI Skill Set for Cloud Engineers
+
+Bringing **AI-native thinking** to cloud infrastructure — from GenAI platform services and LLMOps to AIOps-driven operations and intelligent automation. ⚡
+
+<div align="center">
+
+#### 🧠 AI / ML Cloud Platforms
+<p>
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+#### 🔮 GenAI & LLM Engineering
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DBs-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+#### ⚙️ MLOps & LLMOps
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_ML_Pipelines-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+#### 📈 AIOps & Intelligent Operations
+<p>
+  <img src="https://img.shields.io/badge/Azure_Monitor_AIOps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anomaly_Detection-E535AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Predictive_Scaling-00C7B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana_ML-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+#### 🛡️ AI Governance & Security
+<p>
+  <img src="https://img.shields.io/badge/Responsible_AI-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Content_Safety-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Security-D14836?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Injection_Defense-BE123C?style=for-the-badge" />
+</p>
+
+#### 🤝 AI-Assisted DevOps
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_IaC_Generation-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Code_Review-2088FF?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+</div>
+
+```terraform
+resource "buddhike_ai_toolkit" "cloud_engineering" {
+  genai_platforms = ["Azure AI Foundry", "Azure OpenAI", "AWS Bedrock", "Vertex AI"]
+
+  llm_engineering = {
+    orchestration = ["LangChain", "Semantic Kernel", "LlamaIndex"]
+    patterns      = ["RAG", "Agentic Workflows", "Fine-tuning", "MCP Servers"]
+    vector_stores = ["Azure AI Search", "pgvector", "Pinecone"]
+  }
+
+  operations = {
+    aiops = ["Predictive Scaling", "Anomaly Detection", "Intelligent Alerting"]
+    mlops = ["MLflow", "Kubeflow", "Model Monitoring & Drift Detection"]
+  }
+
+  governance = ["Responsible AI", "AI Content Safety", "LLM Threat Modeling"]
+}
+```
 
 ---
 
@@ -238,3 +388,29 @@ I'm always excited to connect with fellow tech enthusiasts, discuss cloud archit
 **Thanks for visiting! Feel free to explore my repositories and reach out!** ⭐
 
 </div>
+</script>
+
+<script>
+  marked.setOptions({ gfm: true, breaks: false });
+  const md = document.getElementById('source').textContent;
+  document.getElementById('content').innerHTML = marked.parse(md);
+
+  // Theme toggle
+  const root = document.documentElement;
+  const lightCss = document.getElementById('css-light');
+  const darkCss = document.getElementById('css-dark');
+  const btn = document.getElementById('themeBtn');
+  function applyTheme(t) {
+    root.setAttribute('data-theme', t);
+    const dark = t === 'dark';
+    darkCss.disabled = !dark;
+    lightCss.disabled = dark;
+    btn.textContent = dark ? '☀️ Light' : '🌙 Dark';
+  }
+  applyTheme('dark');
+  btn.addEventListener('click', () => {
+    applyTheme(root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+  });
+</script>
+</body>
+</html>
