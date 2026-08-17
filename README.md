@@ -267,11 +267,12 @@ resource "buddhike_current_focus" "2026" {
 
 ### 🎯 2026 Goals
 
-- 🚀 Contribute to more open-source DevOps projects
-- 📚 Master multi-cloud architecture patterns incorporating GenAI
-- 🎓 Achieve advanced Azure certifications
-- 🤝 Mentor junior cloud engineers
-- 📝 Write technical blogs about cloud adoption
+* 🤖 Build strong GenAI, LLM & AI Agent skills
+* ☁️ Master AI-driven multi-cloud architecture
+* 🚀 Advance DevOps, AIOps & cloud automation
+* 🎓 Achieve advanced Azure & AI certifications
+* 🤝 Mentor Junior cloud engineers
+* 📝 Write blogs on AI, cloud & DevOps
 
 ---
 
