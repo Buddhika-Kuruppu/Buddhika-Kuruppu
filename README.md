@@ -172,7 +172,7 @@ resource "buddhike_ai_toolkit" "cloud_engineering" {
 
   operations = {
     aiops = ["Predictive Scaling", "Anomaly Detection", "Intelligent Alerting"]
-    mlops = ["MLflow", "Kubeflow", "Model Monitoring & Drift Detection"]
+    cloud_operations = ["Cloud Security", "FinOps", "Observability & Cost Optimization"]
   }
 
   governance = ["Responsible AI", "AI Content Safety", "LLM Threat Modeling"]
