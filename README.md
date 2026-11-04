@@ -197,7 +197,7 @@ resource "buddhike_ai_toolkit" "cloud_engineering" {
 
 <div align="center">
 
-![GitHub Streak](https://raw.githubusercontent.com/Buddhika-Kuruppu/Buddhika-Kuruppu/main/output/streak-stats.svg?t=1793735931)
+![GitHub Streak](https://raw.githubusercontent.com/Buddhika-Kuruppu/Buddhika-Kuruppu/main/output/streak-stats.svg?t=1793823516)
 
 </div>
 
